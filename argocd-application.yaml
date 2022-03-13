@@ -10,7 +10,7 @@ spec:
     namespace: default
   project: default
   source:
-    path: apps/
+    path: test-service/
     repoURL: https://github.com/KarimDarwish/argocd-helm-demo
     targetRevision: HEAD
   syncPolicy:
