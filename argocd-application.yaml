@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: test-service/
-    repoURL: https://github.com/KarimDarwish/argocd-helm-demo
+    repoURL: https://github.com/Fylipp/argocd-helm-demo
     targetRevision: HEAD
   syncPolicy:
     automated:
